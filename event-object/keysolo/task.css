@@ -11,3 +11,13 @@
   color: #fff;
 }
 
+.timer {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.timer__value {
+  font-weight: bold;
+  color: #d33;
+}
